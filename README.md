@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="256" height="256" src="apricot_icon.png">
+</p>
+
 # Apricot
 Support Page for Apricot
 
