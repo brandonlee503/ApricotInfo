@@ -3,7 +3,8 @@
 </p>
 
 # Apricot
-Support Page for Apricot
+
+Apricot is a Hacker News client on visionOS.
 
 ### Support
 
