@@ -4,7 +4,7 @@
 
 # Apricot
 
-Apricot is a Hacker News client on visionOS.
+[Apricot](https://apps.apple.com/us/app/apricot-hacker-news/id6743371981) is a Hacker News client on visionOS.
 
 ### Support
 
